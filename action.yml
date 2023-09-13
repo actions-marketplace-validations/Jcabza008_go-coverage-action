@@ -1,5 +1,5 @@
-name: 'Go Coverage'
-description: 'Generates Go coverage reports without third party services'
+name: 'Go Coverage Jcabza008'
+description: 'Generates Go coverage reports without third party services. Forked from https://github.com/gwatts/go-coverage-action'
 inputs:
   token:
     description: github token
